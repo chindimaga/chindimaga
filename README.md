@@ -7,9 +7,8 @@
 
 - 💬 Ask me about **machine learning algorithms, probability, statistics. #math_nerd**
 
-- 📫 How to reach me **rahu760@gmail.com**
-
-### Blogs posts
+- 📫 How to reach me **rahu760@gmail.com, or on facebook**
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -22,10 +21,10 @@
 <p align="center">
 <a href="https://twitter.com/chindimaga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chindimaga" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/rdg07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rdg07" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/11742028" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11742028" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/11742028/rahul-d" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11742028" height="30" width="30" /></a>
 <a href="https://kaggle.com/chindimaga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="chindimaga" height="30" width="30" /></a>
 <a href="https://fb.com/rahuldg007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rahuldg007" height="30" width="30" /></a>
 <a href="https://instagram.com/ra_ul_d" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ra_ul_d" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/uckiigihu_0s4ni-niev9wvg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uckiigihu_0s4ni-niev9wvg" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCKIiGihu_0s4NI-nieV9wvg?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uckiigihu_0s4ni-niev9wvg" height="30" width="30" /></a>
 <a href="/tobeputup" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="tobeputup" height="30" width="30" /></a>
 </p>
