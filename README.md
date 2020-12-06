@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul D</h1>
-<h3 align="center">An aspiring data scientist, chess enthusiast, and a happy kid LOL.</h3>
+<h3 align="center">An aspiring data scientist, chess enthusiast, and .......</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chindimaga" alt="chindimaga" /> </p>
 
