@@ -1,30 +1,43 @@
-<h1 align="center">Hi 👋, I'm Rahul D</h1>
-<h3 align="center">An aspiring data scientist, chess enthusiast, and .......</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chindimaga" alt="chindimaga" /> </p>
-
-- 📝 I regulary write articles on [tobeputup](tobeputup)
-
-- 💬 Ask me about **machine learning algorithms, probability, statistics. #math_nerd**
-
-- 📫 How to reach me **rahu760@gmail.com, or on facebook**
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<p align="left"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chindimaga&layout=compact" alt="chindimaga" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chindimaga&show_icons=true" alt="chindimaga" /></p>
+<p align="center">
+  <a href="https://github.com/chindimaga">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=2000&pause=100&multiline=true&width=600&height=90&lines=Rahul+D;Data+Scientist+II+@+Meesho+%7C+Ex-Applied+Scientist+@+Microsoft;RecSys+%7C+Ads+%7C+Calibration+%7C+Bandits+%7C+Bidding;NLP+Research+%7C+Elegant+Solutions" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
-<a href="https://twitter.com/chindimaga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chindimaga" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/rdg07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rdg07" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/11742028/rahul-d" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11742028" height="30" width="30" /></a>
-<a href="https://kaggle.com/chindimaga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="chindimaga" height="30" width="30" /></a>
-<a href="https://fb.com/rahuldg007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rahuldg007" height="30" width="30" /></a>
-<a href="https://instagram.com/ra_ul_d" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ra_ul_d" height="30" width="30" /></a>
-<a href="https://www.youtube.com/channel/UCKIiGihu_0s4NI-nieV9wvg?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uckiigihu_0s4ni-niev9wvg" height="30" width="30" /></a>
-<a href="/tobeputup" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="tobeputup" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/rdg07/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/chindimaga">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://dtoxdozee.substack.com/publish/posts">
+    <img src="https://img.shields.io/badge/Substack-DD4814?style=flat-square&logo=substack&logoColor=white" alt="Substack">
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/chindimaga">
+    <img src="https://github-readme-stats.vercel.app/api?username=chindimaga&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chindimaga&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  </a>
+</p>
+
+---
+
+👋 Hi, I’m **Rahul D**  
+💼 Data Scientist II @ Meesho (formerly Applied Scientist @ Microsoft, Bangalore)  
+🎓 B.Tech in Electronics & Communication (Math minor) from IIT Guwahati  
+🌱 Skilled in Recommender Systems, Ads, Calibration, Bandits, Bidding, and advanced NLP research  
+💡 Always exploring elegant, data-driven solutions to real-world problems  
+
+---
+
+### 🔭 What I’m working on
+- Researching advanced NLP techniques for more natural human–computer interaction  
+- Building and optimizing recommender and bidding systems at scale  
+
+### 🤝 Let’s connect
+- ✉️ [Email me](mailto:rahu760@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rdg07/)  
+- 📰 [Substack](https://dtoxdozee.substack.com/publish/posts)  
