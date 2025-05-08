@@ -26,7 +26,7 @@
 ---
 
 👋 Hi, I’m **Rahul D**  
-💼 Data Scientist II @ Meesho (formerly Applied Scientist @ Microsoft, Bangalore)  
+💼 Data Scientist II @ Meesho (Ex - Applied Scientist @ Microsoft, Bangalore)  
 🎓 B.Tech in Electronics & Communication (Math minor) from IIT Guwahati  
 🌱 Skilled in Recommender Systems, Ads, Calibration, Bandits, Bidding, and advanced NLP research  
 💡 Always exploring elegant, data-driven solutions to real-world problems  
