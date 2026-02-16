@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/chindimaga">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=2000&pause=100&multiline=true&width=600&height=90&lines=Rahul+D;Data+Scientist+II+@+Meesho;RecSys+%7C+Ads+%7C+Calibration+%7C+Bandits+%7C+Bidding;NLP+Research+%7C+Elegant+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=2000&pause=100&multiline=true&width=600&height=90&lines=Rahul+D;Data+Scientist+III+@+Meesho;RecSys+%7C+Ads+%7C+Calibration+%7C+Bandits+%7C+Bidding;NLP+Research+%7C+Elegant+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
