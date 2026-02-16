@@ -26,7 +26,7 @@
 ---
 
 👋 Hi, I’m **Rahul D**  
-💼 Data Scientist II @ Meesho
+💼 Data Scientist III @ Meesho
 🎓 B.Tech in Electronics & Communication (Math minor) from IIT Guwahati  
 🌱 Skilled in Recommender Systems, Ads, Calibration, Bandits, Bidding, and advanced NLP research  
 💡 Always exploring elegant, data-driven solutions to real-world problems  
